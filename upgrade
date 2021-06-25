@@ -1,0 +1,20 @@
+apt-get update
+apt-get upgrade 
+sudo apt autoremove 
+sudo apt install update-manag
+apt-get dist-upgrade 
+sudo do-release-upgrade 
+reboot 
+
+apt update 
+apt upgrade 
+apt dist-upgrade 
+sudo apt auto
+sudo apt autoremove 
+sudo do-release-upgrade 
+
+apt update 
+apt upgrade 
+apt dist-upgrade 
+sudo apt autoremove 
+sudo do-release-upgrade 
